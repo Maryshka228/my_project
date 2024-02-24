@@ -46,7 +46,7 @@
 
 ## ПРОГРАММА:
 
-**Program.cs** https://github.com/VeraNic/ControlWork_I/blob/main/Program.cs
+**Program.cs** https://github.com/Maryshka228/my_project/Program.cd
 
 **Примеры вывода:**
 
