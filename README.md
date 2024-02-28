@@ -48,6 +48,4 @@
 
 **Program.cs:** https://github.com/Maryshka228/my_project/blob/main/Program.cs
 
-## СКРИНШОТ КОММТОВ:
-**Скриншот:** ![Скриншот коммитов](Скриншот коммитов.png)
 
