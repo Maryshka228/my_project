@@ -44,7 +44,7 @@
 
 ..............................................................
 
-## ПРОГРАММА: https://github.com/Maryshka228/my_project/blob/main/Program.cs
+## ПРОГРАММА:
 
 **Program.cs** https://github.com/Maryshka228/my_project/blob/main/Program.cs
 
