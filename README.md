@@ -48,9 +48,3 @@
 
 **Program.cs** https://github.com/Maryshka228/my_project/blob/main/Program.cs
 
-**Примеры вывода:**
-
-![Скриншот 1 работы программы](Screenshot1.jpg) 
-
-![Скриншот 2 работы программы](Screenshot2.jpg)
-
